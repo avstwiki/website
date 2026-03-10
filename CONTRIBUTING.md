@@ -36,7 +36,7 @@ That's it. Vercel will automatically build a preview of the site with your chang
 
 - Copy the text content, but don't worry about matching the exact layout — Docusaurus handles styling.
 - Convert links to Markdown format: `[link text](https://example.com)`.
-- If a page has images, ask one of the developers to help add them, or note it in the PR description.
+- If a page has images, ask one of the developers to help add them, or note it in the PR description. Maybe you can also add them yourself via the web interface (supports uploading files into a folder directly, images live in `static/img/`), needs to be tested.
 
 ## For developers
 
